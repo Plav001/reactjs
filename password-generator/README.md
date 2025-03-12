@@ -20,11 +20,15 @@ This is a simple React app built with Vite and Tailwind CSS. It includes:
 - Built with Tailwind CSS for a clean and modern design.
 - Responsive layout that works on different screen sizes.
 
+## Preview URL
+You can check out the live demo here:
+[Live Preview](https://password-generator-ivory-two.vercel.app/)
+
 ## Installation & Usage
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-username/password-generator.git
+https://github.com/Plav001/reactjs/tree/main/password-generator
 cd password-generator
 ```
 

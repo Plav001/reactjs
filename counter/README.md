@@ -16,11 +16,15 @@ This is a simple React app built with Vite and Tailwind CSS. It includes:
 - Uses `localStorage` to save the theme preference, so it remains after a page refresh.
 - Smoothly switches icons between a **moon** (for dark mode) and a **sun** (for light mode).
 
+## Preview URL
+You can check out the live demo here:
+[Live Preview](https://reactjs-ruby-mu.vercel.app/)
+
 ## Installation & Usage
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/Plav001/reactjs.git
+https://github.com/Plav001/reactjs/tree/main/counter
 cd your-repo
 ```
 
